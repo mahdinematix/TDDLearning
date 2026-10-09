@@ -15,7 +15,7 @@ services.AddSwaggerGen();
 
 services.AddDbContext<AcademyContext>(x =>
     x.UseSqlServer(
-        "Data Source=.; Initial Catalog=TddAcademy; Persist Security Info=True; User ID=sa; Password=123456; TrustServerCertificate=True;"));
+        "Data Source=.; Initial Catalog=TddAcademy; Persist Security Info=True; User ID=sa; Password=****; TrustServerCertificate=True;"));
 services.AddTransient<ICourseRepository, CourseRepository>();
 services.AddTransient<ICourseApplication, CourseApplication>();
 
