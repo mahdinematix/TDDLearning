@@ -1,0 +1,11 @@
+D:\Programming\ASP .NET Projects\TDDLearning\src\Academy.Domain\bin\Debug\net10.0\Academy.Domain.deps.json
+D:\Programming\ASP .NET Projects\TDDLearning\src\Academy.Domain\bin\Debug\net10.0\Academy.Domain.dll
+D:\Programming\ASP .NET Projects\TDDLearning\src\Academy.Domain\bin\Debug\net10.0\Academy.Domain.pdb
+D:\Programming\ASP .NET Projects\TDDLearning\src\Academy.Domain\obj\Debug\net10.0\Academy.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\ASP .NET Projects\TDDLearning\src\Academy.Domain\obj\Debug\net10.0\Academy.Domain.AssemblyInfoInputs.cache
+D:\Programming\ASP .NET Projects\TDDLearning\src\Academy.Domain\obj\Debug\net10.0\Academy.Domain.AssemblyInfo.cs
+D:\Programming\ASP .NET Projects\TDDLearning\src\Academy.Domain\obj\Debug\net10.0\Academy.Domain.csproj.CoreCompileInputs.cache
+D:\Programming\ASP .NET Projects\TDDLearning\src\Academy.Domain\obj\Debug\net10.0\Academy.Domain.dll
+D:\Programming\ASP .NET Projects\TDDLearning\src\Academy.Domain\obj\Debug\net10.0\refint\Academy.Domain.dll
+D:\Programming\ASP .NET Projects\TDDLearning\src\Academy.Domain\obj\Debug\net10.0\Academy.Domain.pdb
+D:\Programming\ASP .NET Projects\TDDLearning\src\Academy.Domain\obj\Debug\net10.0\ref\Academy.Domain.dll

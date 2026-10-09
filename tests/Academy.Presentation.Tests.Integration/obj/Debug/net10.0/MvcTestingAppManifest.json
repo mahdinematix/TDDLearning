@@ -1,0 +1,6 @@
+{
+  "Academy.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Programming\\ASP .NET Projects\\TDDLearning\\src\\Academy.Application",
+  "Academy.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Programming\\ASP .NET Projects\\TDDLearning\\src\\Academy.Domain",
+  "Academy.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Programming\\ASP .NET Projects\\TDDLearning\\src\\Academy.Infrastructure",
+  "Academy.Presentation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Programming\\ASP .NET Projects\\TDDLearning\\src\\Academy.Presentation"
+}

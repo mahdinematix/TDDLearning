@@ -1,0 +1,17 @@
+D:\Programming\ASP .NET Projects\TDDLearning\src\Academy.Infrastructure\bin\Debug\net10.0\Academy.Infrastructure.deps.json
+D:\Programming\ASP .NET Projects\TDDLearning\src\Academy.Infrastructure\bin\Debug\net10.0\Academy.Infrastructure.runtimeconfig.json
+D:\Programming\ASP .NET Projects\TDDLearning\src\Academy.Infrastructure\bin\Debug\net10.0\Academy.Infrastructure.dll
+D:\Programming\ASP .NET Projects\TDDLearning\src\Academy.Infrastructure\bin\Debug\net10.0\Academy.Infrastructure.pdb
+D:\Programming\ASP .NET Projects\TDDLearning\src\Academy.Infrastructure\bin\Debug\net10.0\Academy.Domain.dll
+D:\Programming\ASP .NET Projects\TDDLearning\src\Academy.Infrastructure\bin\Debug\net10.0\Academy.Domain.pdb
+D:\Programming\ASP .NET Projects\TDDLearning\src\Academy.Infrastructure\obj\Debug\net10.0\Academy.Infrastructure.csproj.AssemblyReference.cache
+D:\Programming\ASP .NET Projects\TDDLearning\src\Academy.Infrastructure\obj\Debug\net10.0\Academy.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\ASP .NET Projects\TDDLearning\src\Academy.Infrastructure\obj\Debug\net10.0\Academy.Infrastructure.AssemblyInfoInputs.cache
+D:\Programming\ASP .NET Projects\TDDLearning\src\Academy.Infrastructure\obj\Debug\net10.0\Academy.Infrastructure.AssemblyInfo.cs
+D:\Programming\ASP .NET Projects\TDDLearning\src\Academy.Infrastructure\obj\Debug\net10.0\Academy.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Programming\ASP .NET Projects\TDDLearning\src\Academy.Infrastructure\obj\Debug\net10.0\Academy..0FD4CCE3.Up2Date
+D:\Programming\ASP .NET Projects\TDDLearning\src\Academy.Infrastructure\obj\Debug\net10.0\Academy.Infrastructure.dll
+D:\Programming\ASP .NET Projects\TDDLearning\src\Academy.Infrastructure\obj\Debug\net10.0\refint\Academy.Infrastructure.dll
+D:\Programming\ASP .NET Projects\TDDLearning\src\Academy.Infrastructure\obj\Debug\net10.0\Academy.Infrastructure.pdb
+D:\Programming\ASP .NET Projects\TDDLearning\src\Academy.Infrastructure\obj\Debug\net10.0\Academy.Infrastructure.genruntimeconfig.cache
+D:\Programming\ASP .NET Projects\TDDLearning\src\Academy.Infrastructure\obj\Debug\net10.0\ref\Academy.Infrastructure.dll

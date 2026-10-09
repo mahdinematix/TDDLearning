@@ -1,0 +1,17 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Academy.Application/Academy.Application.csproj" Id="6f85b4c1-c190-4d35-9e40-7fb356081b73" />
+    <Project Path="src/Academy.Domain/Academy.Domain.csproj" Id="14abb745-2bd3-4d9a-83a7-ad1665519698" />
+    <Project Path="src/Academy.Infrastructure/Academy.Infrastructure.csproj" Id="2bd82972-9bb6-4cd9-99d3-7ec2180ccfe7" />
+    <Project Path="src/Academy.Presentation/Academy.Presentation.csproj" Id="069761d8-9c16-4886-b452-17c9063f8725" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Academy.Acceptance.Tests/Academy.Acceptance.Tests.csproj" Id="9e953682-3090-4f68-96a0-4f30e34d2d01" />
+    <Project Path="tests/Academy.Application.Tests.Unit/Academy.Application.Tests.Unit.csproj" Id="55d175d4-d467-49f3-8fb3-958ce380b9ce" />
+    <Project Path="tests/Academy.Domain.Infrastructure.Tests.Unit/Academy.Infrastructure.Tests.Unit.csproj" Id="b49457e8-3ddc-40d4-aff1-1ce8303c9c6f" />
+    <Project Path="tests/Academy.Domain.Tests/Academy.Domain.Tests.Unit.csproj" Id="6eab7d51-9fbf-43ee-9535-59bb9f346e94" />
+    <Project Path="tests/Academy.Infrastructure.Tests.Integration/Academy.Infrastructure.Tests.Integration.csproj" Id="a82389d1-9420-4bc9-8fcd-eea259d18daf" />
+    <Project Path="tests/Academy.Presentation.Tests.Integration/Academy.Presentation.Tests.Integration.csproj" Id="4889b2d7-24a1-4e11-aeaf-ea1f740acbf4" />
+    <Project Path="tests/Academy.Presentation.Tests.Unit/Academy.Presentation.Tests.Unit.csproj" Id="e0caa5e4-4859-48de-82d3-02444ae69fbd" />
+  </Folder>
+</Solution>
